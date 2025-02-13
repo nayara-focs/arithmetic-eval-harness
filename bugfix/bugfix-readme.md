@@ -1,4 +1,4 @@
-# Arithmetic tasksSpacing bug fix
+# Arithmetic tasks spacing bug fix
 
 ## Issue description
 The arithmetic tasks in LM-Evaluation-Harness exhibited inconsistent behavior between zero-shot and few-shot evaluation due to a spacing issue in example construction. This caused significant performance degradation in few-shot settings.
